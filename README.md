@@ -8,13 +8,11 @@ Spreadship is a React project built with TypeScript, Vite, and TailwindCSS. This
 - [Installation](#installation)
 - [Scripts](#scripts)
 - [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
 - [Development](#development)
 - [Build](#build)
 - [Linting](#linting)
 - [Preview](#preview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
